@@ -57,4 +57,5 @@ section {
 
 .helf-width img {
     width: 95%;
+    border-radius: 100%;
 }
